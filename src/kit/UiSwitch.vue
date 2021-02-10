@@ -35,7 +35,9 @@ export default {
 };
 </script>
 
-<style scoped>
+<style lang="scss">
+@import "@/styles/variables.scss";
+
 .gold-mid {
   background-color: #666666;
 }

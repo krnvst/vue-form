@@ -70,7 +70,7 @@ export default {
 		background-color: $white;
 		border: 1px solid $gray;
 		color: $black;
-		padding-left: 1em;
+		padding-left: $padding * 2;
 		cursor: pointer;
 		user-select: none;
 	}

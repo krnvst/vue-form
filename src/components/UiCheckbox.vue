@@ -20,6 +20,7 @@
 
 <script>
 export default {
+  name: 'UICheckbox',
   props: {
     options: {
       type: Array,

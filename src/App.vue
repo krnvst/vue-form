@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import AllForms from './components/AllForms.vue'
+import AllForms from '@/AllForms.vue'
 
 export default {
   name: 'App',
@@ -12,14 +12,3 @@ export default {
   }
 }
 </script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
-  margin: 40px auto;
-  max-width: 500px;
-}
-</style>
